@@ -1,0 +1,16 @@
+{
+  "name": "uniglade-mock-api",
+  "version": "1.0.0",
+  "description": "Mock of the Uniglade Bus Partner API v1 for integration testing",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test-flow.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
